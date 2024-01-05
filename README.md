@@ -39,7 +39,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-AutoCaption-Bot/tree/main">
+<a href="https://render.com/deploy?repo=[https://github.com/garrysidhu572/File-Store-Bot-With-Url-Shortner.git]">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -47,7 +47,7 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Heroku 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/garrysidhu572/File-Store-Bot-With-Url-Shortner">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 </details>
@@ -55,7 +55,7 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Koyeb
 <details><summary>Deploy To Koyeb</summary>
 <br>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/File-Store-Bot-With-Url-Shortner&branch=main&name=filestorevj"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/garrysidhu572/File-Store-Bot-With-Url-Shortner&branch=main&name=filestorevj"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 </details>
 
 ### Demo Bot:
